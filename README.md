@@ -1,1 +1,1 @@
-A WordPress plugin which adds a text widget which can have images from the media library attached to it.
+A WordPress plugin which adds a text widget that can have images from the media library attached to it.
